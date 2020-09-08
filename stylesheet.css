@@ -3,5 +3,5 @@
 }
 
 body {
-  background-image: image(tokage.png);
+  background-image: url(tokage.png);
 }
